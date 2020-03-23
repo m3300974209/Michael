@@ -1,0 +1,1 @@
+@"D:\宫保CHICKEN工作室\程序开发\啊哈C\AhaCpp\resources\core\bin\ConsolePauser.exe" "D:\练歌系统\坚信爱会赢\坚信爱会赢.exe"
